@@ -68,15 +68,28 @@ def calculate_team_turnover_ratios(db_name):
     conn = sqlite3.connect(db_name)
     
     query = '''
-        SELECT team_name AS team, COUNT(DISTINCT match_id) AS matches_played,
-           SUM(Miscontrol) AS Miscontrol, SUM(Pass) AS Pass, 
-           SUM(Dribble) AS Dribble, SUM(Shot) AS Shot,
-           SUM(Miscontrol) + SUM(Pass) + SUM(Dribble) + SUM(Shot) AS total_turnovers
-    FROM turnovers
-    GROUP BY team_name
-    ORDER BY (SUM(Miscontrol) + SUM(Pass) + SUM(Dribble) + SUM(Shot)) / COUNT(DISTINCT match_id) ASC
+        SELECT team_name AS team, 
+               COUNT(DISTINCT match_id) AS matches_played,
+               SUM(Miscontrol) AS Miscontrol, 
+               SUM(Pass) AS Pass, 
+               SUM(Dribble) AS Dribble, 
+               SUM(Shot) AS Shot,
+               SUM(Miscontrol) + SUM(Pass) + SUM(Dribble) + SUM(Shot) AS total_turnovers
+        FROM turnovers
+        GROUP BY team_name
+        ORDER BY team_name
     '''
     
     df = pd.read_sql(query, conn)
     conn.close()
+    
+    # Calculer le ratio turnovers par match
+    df['Ratio_Turnovers_Match'] = (df['total_turnovers'] / df['matches_played']).round(1)
+    
+    # Ajouter une colonne de classement (Rang) basée sur le ratio turnovers/match
+    df['Rang'] = df['Ratio_Turnovers_Match'].rank(method='dense', ascending=True).astype(int)
+
+    # Réorganiser l'ordre des colonnes pour inclure Rang et Ratio_Turnovers_Match
+    df = df[['Rang', 'team', 'matches_played', 'Miscontrol', 'Pass', 'Dribble', 'Shot', 'total_turnovers', 'Ratio_Turnovers_Match']]
+    
     return df

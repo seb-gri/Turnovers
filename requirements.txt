@@ -2,3 +2,4 @@ statsbombpy
 pandas
 matplotlib
 sqlite3
+reportlab

@@ -1,41 +1,46 @@
+# report_generator.py
 from fpdf import FPDF
+from datetime import datetime
 
-def generate_pdf_report(team_stats, output_file):
+def generate_pdf_report(dataframe, output_file):
     pdf = FPDF()
-    pdf.set_auto_page_break(auto=True, margin=15)
     pdf.add_page()
-
-    pdf.set_font("Arial", size=12)
-    pdf.cell(200, 10, txt="Classement des équipes par ratio turnovers/match", ln=True, align="C")
-
-    pdf.ln(10)
-    pdf.set_font("Arial", size=10)
+    pdf.set_font("Arial", style="B", size=12)
     
-    # Ajouter les en-têtes de colonnes pour le tableau
-    headers = ["Équipe", "Matches joués", "Miscontrol", "Pass", "Dribble", "Shot", "Total Turnovers", "Ratio"]
-    for header in headers:
-        pdf.cell(25, 10, header, border=1, align='C')
-    pdf.ln()
+    # Titre principal
+    pdf.cell(0, 10, "Classement par équipe des pertes techniques", ln=True, align="C")
+     
+    # Informations sur la compétition, la saison et la date du jour
+    competition_name = "Ligue 2"  # Remplacez par le nom exact de la compétition concernée
+    season = "Saison 2024/25"  # Remplacez par la saison actuelle
+    today_date = datetime.today().strftime("Au %d-%m-%Y")
+    
+    pdf.set_font("Arial", size=10)
+    pdf.cell(0, 8, f"{competition_name} - {season}", ln=True, align="C")
+    pdf.cell(0, 8, today_date, ln=True, align="C")
+    pdf.ln(10)  # Espace entre le titre et le tableau
 
-    # Ajouter les statistiques de chaque équipe dans le tableau
-    for _, row in team_stats.iterrows():
-        team_name = row['team']
-        matches_played = row['matches_played']
-        miscontrol = row['Miscontrol']
-        pass_turnovers = row['Pass']
-        dribble = row['Dribble']
-        shot = row['Shot']
-        total_turnovers = miscontrol + pass_turnovers + dribble + shot
-        ratio = total_turnovers / matches_played if matches_played > 0 else 0
+    # Largeurs des colonnes ajustées pour chaque en-tête
+    column_widths = [14, 30, 20, 20, 20, 20, 20, 20, 20]
+    row_height = 8
 
-        pdf.cell(25, 10, team_name, border=1, align='C')
-        pdf.cell(25, 10, str(matches_played), border=1, align='C')
-        pdf.cell(25, 10, str(miscontrol), border=1, align='C')
-        pdf.cell(25, 10, str(pass_turnovers), border=1, align='C')
-        pdf.cell(25, 10, str(dribble), border=1, align='C')
-        pdf.cell(25, 10, str(shot), border=1, align='C')
-        pdf.cell(25, 10, str(total_turnovers), border=1, align='C')
-        pdf.cell(25, 10, f"{ratio:.2f}", border=1, align='C')
-        pdf.ln()
+    # Création des en-têtes du tableau
+    headers = ["Rang", "Équipe", "Matches", "Miscontrol", "Pass", "Dribble", "Shot", "Turnovers", "Ratio T/M"]
+    for i, header in enumerate(headers):
+        pdf.cell(column_widths[i], row_height, header, border=1, align="C")
+    pdf.ln(row_height)
+
+    # Remplissage des lignes du tableau
+    for _, row in dataframe.iterrows():
+        pdf.cell(column_widths[0], row_height, str(row['Rang']), border=1, align="C")
+        pdf.cell(column_widths[1], row_height, row['team'], border=1, align="C")
+        pdf.cell(column_widths[2], row_height, str(row['matches_played']), border=1, align="C")
+        pdf.cell(column_widths[4], row_height, str(row['Miscontrol']), border=1, align="C")
+        pdf.cell(column_widths[5], row_height, str(row['Pass']), border=1, align="C")
+        pdf.cell(column_widths[6], row_height, str(row['Dribble']), border=1, align="C")
+        pdf.cell(column_widths[7], row_height, str(row['Shot']), border=1, align="C")
+        pdf.cell(column_widths[3], row_height, str(row['turnovers']), border=1, align="C")
+        pdf.cell(column_widths[8], row_height, f"{row['Ratio_Turnovers_Match']:.1f}", border=1, align="C")
+        pdf.ln(row_height)
 
     pdf.output(output_file)
