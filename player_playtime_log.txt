@@ -2448,3 +2448,669 @@
 2024-11-12 17:29:42,433 - Finished updating player playtime for match ID: 3949291
 2024-11-12 17:29:42,999 - Finished updating player playtime for match ID: 3949292
 2024-11-12 17:29:43,482 - Finished updating player playtime for match ID: 3949293
+2024-11-12 18:19:54,787 - Finished updating player info table.
+2024-11-12 18:20:49,429 - Finished updating player playtime for match ID: 3949177
+2024-11-12 18:20:49,920 - Finished updating player playtime for match ID: 3949178
+2024-11-12 18:20:50,379 - Finished updating player playtime for match ID: 3949179
+2024-11-12 18:20:50,909 - Finished updating player playtime for match ID: 3949180
+2024-11-12 18:20:51,413 - Finished updating player playtime for match ID: 3949181
+2024-11-12 18:20:51,887 - Finished updating player playtime for match ID: 3949182
+2024-11-12 18:20:52,393 - Finished updating player playtime for match ID: 3949183
+2024-11-12 18:20:52,883 - Finished updating player playtime for match ID: 3949184
+2024-11-12 18:20:53,343 - Finished updating player playtime for match ID: 3949185
+2024-11-12 18:20:53,878 - Finished updating player playtime for match ID: 3949186
+2024-11-12 18:20:54,347 - Finished updating player playtime for match ID: 3949187
+2024-11-12 18:20:54,810 - Finished updating player playtime for match ID: 3949188
+2024-11-12 18:20:55,307 - Finished updating player playtime for match ID: 3949189
+2024-11-12 18:20:55,791 - Finished updating player playtime for match ID: 3949190
+2024-11-12 18:20:56,309 - Finished updating player playtime for match ID: 3949191
+2024-11-12 18:20:56,823 - Finished updating player playtime for match ID: 3949192
+2024-11-12 18:20:57,285 - Finished updating player playtime for match ID: 3949193
+2024-11-12 18:20:57,791 - Finished updating player playtime for match ID: 3949194
+2024-11-12 18:20:58,292 - Finished updating player playtime for match ID: 3949195
+2024-11-12 18:20:58,765 - Finished updating player playtime for match ID: 3949196
+2024-11-12 18:20:59,253 - Finished updating player playtime for match ID: 3949197
+2024-11-12 18:20:59,714 - Finished updating player playtime for match ID: 3949198
+2024-11-12 18:21:00,167 - Finished updating player playtime for match ID: 3949199
+2024-11-12 18:21:00,646 - Finished updating player playtime for match ID: 3949200
+2024-11-12 18:21:01,137 - Finished updating player playtime for match ID: 3949201
+2024-11-12 18:21:01,609 - Finished updating player playtime for match ID: 3949202
+2024-11-12 18:21:02,086 - Finished updating player playtime for match ID: 3949203
+2024-11-12 18:21:02,536 - Finished updating player playtime for match ID: 3949204
+2024-11-12 18:21:03,031 - Finished updating player playtime for match ID: 3949205
+2024-11-12 18:21:03,572 - Finished updating player playtime for match ID: 3949206
+2024-11-12 18:21:04,089 - Finished updating player playtime for match ID: 3949207
+2024-11-12 18:21:04,563 - Finished updating player playtime for match ID: 3949208
+2024-11-12 18:21:05,046 - Finished updating player playtime for match ID: 3949209
+2024-11-12 18:21:05,503 - Finished updating player playtime for match ID: 3949210
+2024-11-12 18:21:05,982 - Finished updating player playtime for match ID: 3949211
+2024-11-12 18:21:06,532 - Finished updating player playtime for match ID: 3949212
+2024-11-12 18:21:07,037 - Finished updating player playtime for match ID: 3949213
+2024-11-12 18:21:07,612 - Finished updating player playtime for match ID: 3949214
+2024-11-12 18:21:08,113 - Finished updating player playtime for match ID: 3949215
+2024-11-12 18:21:08,716 - Finished updating player playtime for match ID: 3949216
+2024-11-12 18:21:09,233 - Finished updating player playtime for match ID: 3949217
+2024-11-12 18:21:09,740 - Finished updating player playtime for match ID: 3949218
+2024-11-12 18:21:10,247 - Finished updating player playtime for match ID: 3949219
+2024-11-12 18:21:10,749 - Finished updating player playtime for match ID: 3949220
+2024-11-12 18:21:11,277 - Finished updating player playtime for match ID: 3949221
+2024-11-12 18:21:11,875 - Finished updating player playtime for match ID: 3949222
+2024-11-12 18:21:12,439 - Finished updating player playtime for match ID: 3949223
+2024-11-12 18:21:12,963 - Finished updating player playtime for match ID: 3949224
+2024-11-12 18:21:13,462 - Finished updating player playtime for match ID: 3949225
+2024-11-12 18:21:14,010 - Finished updating player playtime for match ID: 3949226
+2024-11-12 18:21:14,492 - Finished updating player playtime for match ID: 3949227
+2024-11-12 18:21:14,997 - Finished updating player playtime for match ID: 3949228
+2024-11-12 18:21:15,503 - Finished updating player playtime for match ID: 3949229
+2024-11-12 18:21:15,986 - Finished updating player playtime for match ID: 3949230
+2024-11-12 18:21:16,471 - Finished updating player playtime for match ID: 3949231
+2024-11-12 18:21:16,946 - Finished updating player playtime for match ID: 3949232
+2024-11-12 18:21:17,508 - Finished updating player playtime for match ID: 3949233
+2024-11-12 18:21:18,020 - Finished updating player playtime for match ID: 3949234
+2024-11-12 18:21:18,564 - Finished updating player playtime for match ID: 3949235
+2024-11-12 18:21:19,076 - Finished updating player playtime for match ID: 3949236
+2024-11-12 18:21:19,542 - Finished updating player playtime for match ID: 3949237
+2024-11-12 18:21:20,034 - Finished updating player playtime for match ID: 3949238
+2024-11-12 18:21:20,562 - Finished updating player playtime for match ID: 3949239
+2024-11-12 18:21:21,079 - Finished updating player playtime for match ID: 3949240
+2024-11-12 18:21:21,580 - Finished updating player playtime for match ID: 3949241
+2024-11-12 18:21:22,042 - Finished updating player playtime for match ID: 3949242
+2024-11-12 18:21:22,570 - Finished updating player playtime for match ID: 3949243
+2024-11-12 18:21:23,055 - Finished updating player playtime for match ID: 3949244
+2024-11-12 18:21:23,548 - Finished updating player playtime for match ID: 3949245
+2024-11-12 18:21:24,016 - Finished updating player playtime for match ID: 3949246
+2024-11-12 18:21:24,505 - Finished updating player playtime for match ID: 3949247
+2024-11-12 18:21:24,982 - Finished updating player playtime for match ID: 3949248
+2024-11-12 18:21:25,451 - Finished updating player playtime for match ID: 3949249
+2024-11-12 18:21:25,949 - Finished updating player playtime for match ID: 3949250
+2024-11-12 18:21:26,469 - Finished updating player playtime for match ID: 3949251
+2024-11-12 18:21:26,937 - Finished updating player playtime for match ID: 3949252
+2024-11-12 18:21:27,384 - Finished updating player playtime for match ID: 3949253
+2024-11-12 18:21:27,847 - Finished updating player playtime for match ID: 3949254
+2024-11-12 18:21:28,334 - Finished updating player playtime for match ID: 3949255
+2024-11-12 18:21:28,837 - Finished updating player playtime for match ID: 3949256
+2024-11-12 18:21:29,393 - Finished updating player playtime for match ID: 3949257
+2024-11-12 18:21:29,914 - Finished updating player playtime for match ID: 3949258
+2024-11-12 18:21:30,403 - Finished updating player playtime for match ID: 3949259
+2024-11-12 18:21:30,947 - Finished updating player playtime for match ID: 3949260
+2024-11-12 18:21:31,449 - Finished updating player playtime for match ID: 3949262
+2024-11-12 18:21:31,978 - Finished updating player playtime for match ID: 3949263
+2024-11-12 18:21:32,589 - Finished updating player playtime for match ID: 3949264
+2024-11-12 18:21:33,075 - Finished updating player playtime for match ID: 3949265
+2024-11-12 18:21:33,638 - Finished updating player playtime for match ID: 3949266
+2024-11-12 18:21:34,128 - Finished updating player playtime for match ID: 3949267
+2024-11-12 18:21:34,612 - Finished updating player playtime for match ID: 3949268
+2024-11-12 18:21:35,121 - Finished updating player playtime for match ID: 3949269
+2024-11-12 18:21:35,581 - Finished updating player playtime for match ID: 3949270
+2024-11-12 18:21:36,095 - Finished updating player playtime for match ID: 3949271
+2024-11-12 18:21:36,620 - Finished updating player playtime for match ID: 3949272
+2024-11-12 18:21:37,135 - Finished updating player playtime for match ID: 3949273
+2024-11-12 18:21:37,612 - Finished updating player playtime for match ID: 3949274
+2024-11-12 18:21:38,103 - Finished updating player playtime for match ID: 3949275
+2024-11-12 18:21:38,577 - Finished updating player playtime for match ID: 3949276
+2024-11-12 18:21:39,084 - Finished updating player playtime for match ID: 3949277
+2024-11-12 18:21:39,573 - Finished updating player playtime for match ID: 3949278
+2024-11-12 18:21:40,047 - Finished updating player playtime for match ID: 3949279
+2024-11-12 18:21:40,541 - Finished updating player playtime for match ID: 3949280
+2024-11-12 18:21:41,111 - Finished updating player playtime for match ID: 3949281
+2024-11-12 18:21:41,618 - Finished updating player playtime for match ID: 3949282
+2024-11-12 18:21:42,104 - Finished updating player playtime for match ID: 3949283
+2024-11-12 18:21:42,660 - Finished updating player playtime for match ID: 3949284
+2024-11-12 18:21:43,123 - Finished updating player playtime for match ID: 3949285
+2024-11-12 18:21:43,632 - Finished updating player playtime for match ID: 3949286
+2024-11-12 18:21:44,108 - Finished updating player playtime for match ID: 3949287
+2024-11-12 18:21:44,635 - Finished updating player playtime for match ID: 3949288
+2024-11-12 18:21:45,126 - Finished updating player playtime for match ID: 3949289
+2024-11-12 18:21:45,603 - Finished updating player playtime for match ID: 3949290
+2024-11-12 18:21:46,109 - Finished updating player playtime for match ID: 3949291
+2024-11-12 18:21:46,582 - Finished updating player playtime for match ID: 3949292
+2024-11-12 18:21:47,105 - Finished updating player playtime for match ID: 3949293
+2024-11-12 18:29:23,763 - Finished updating player info table.
+2024-11-12 18:32:47,834 - Finished updating player info table.
+2024-11-13 09:32:49,618 - Finished updating player info table.
+2024-11-13 09:34:23,943 - Finished updating player info table.
+2024-11-13 09:36:22,707 - Finished updating player info table.
+2024-11-13 09:38:29,074 - Finished updating player info table.
+2024-11-13 09:40:34,356 - Finished updating player info table.
+2024-11-13 10:33:21,130 - Added new player: Héliohdino Tavares Correia (ID: 441630)
+2024-11-13 10:33:21,131 - Added new player: Tidiam Gomis (ID: 395795)
+2024-11-13 10:33:21,131 - Added new player: Mohamed Hafid (ID: 337754)
+2024-11-13 10:33:21,131 - Added new player: Dieudonné Gaucho Debohi (ID: 335773)
+2024-11-13 10:33:21,131 - Added new player: Noé Lebreton (ID: 251825)
+2024-11-13 10:33:21,131 - Added new player: Brahim Traoré (ID: 104615)
+2024-11-13 10:33:21,131 - Added new player: Ali Abdi (ID: 30681)
+2024-11-13 10:33:21,131 - Added new player: Daylam Meddah (ID: 61810)
+2024-11-13 10:33:21,131 - Added new player: Hugo Vandermersch (ID: 30684)
+2024-11-13 10:33:21,132 - Added new player: Godson Kyeremeh (ID: 42495)
+2024-11-13 10:33:21,132 - Added new player: Lorenzo Rajot (ID: 7582)
+2024-11-13 10:33:21,132 - Added new player: Emmanuel Ntim (ID: 28441)
+2024-11-13 10:33:21,132 - Added new player: Valentin Henry (ID: 7708)
+2024-11-13 10:33:21,132 - Added new player: Alexandre Mendy (ID: 3403)
+2024-11-13 10:33:21,132 - Added new player: Quentin Lecoeuche (ID: 13853)
+2024-11-13 10:33:21,132 - Added new player: Anthony Louis Mandréa (ID: 41381)
+2024-11-13 10:33:21,132 - Added new player: Mickaël Le Bihan (ID: 4723)
+2024-11-13 10:33:21,132 - Added new player: Yann Gérard M'Vila (ID: 4429)
+2024-11-13 10:33:21,132 - Added new player: Romain Thomas (ID: 3549)
+2024-11-13 10:33:21,133 - Added new player: Ilyes Najim (ID: 104617)
+2024-11-13 10:33:21,133 - Added new player: Alhassan Touré (ID: 33472)
+2024-11-13 10:33:21,133 - Added new player: Mohamed Youssouf (ID: 21992)
+2024-11-13 10:33:21,133 - Added new player: Ghjuvanni Quilichini (ID: 132336)
+2024-11-13 10:33:21,133 - Added new player: Axel Bamba (ID: 21289)
+2024-11-13 10:33:21,133 - Added new player: Jésah Mabepa Ayessa Ondze (ID: 422092)
+2024-11-13 10:33:21,133 - Added new player: Ivane Chegra (ID: 350489)
+2024-11-13 10:33:21,133 - Added new player: Moussa Soumano (ID: 350488)
+2024-11-13 10:33:21,133 - Added new player: Ben Hamed Touré (ID: 350487)
+2024-11-13 10:33:21,134 - Added new player: Mehdi Guillermo Moh Puch-Herrantz (ID: 350486)
+2024-11-13 10:33:21,134 - Added new player: Kan Guy Arsene Kouassi (ID: 245391)
+2024-11-13 10:33:21,134 - Added new player: Everson Junior Pereira da Silva (ID: 132337)
+2024-11-13 10:33:21,134 - Added new player: Tim Jabol Folcarelli (ID: 90961)
+2024-11-13 10:33:21,134 - Added new player: Matthieu Huard (ID: 28347)
+2024-11-13 10:33:21,134 - Added new player: Valentin Jacob (ID: 10670)
+2024-11-13 10:33:21,134 - Added new player: Christopher Ibayi (ID: 175133)
+2024-11-13 10:33:21,134 - Added new player: Yoann Touzghar (ID: 7228)
+2024-11-13 10:33:21,134 - Added new player: Thomas Mangani (ID: 3185)
+2024-11-13 10:33:21,134 - Added new player: Ricardo Coutinho Da Silva (ID: 144968)
+2024-11-13 10:33:21,135 - Added new player: Clément Vidal (ID: 33210)
+2024-11-13 10:33:21,135 - Added new player: Aboubakary Kanté (ID: 8984)
+2024-11-13 10:33:21,135 - Added new player: Jekob Abiezer Jeno (ID: 181236)
+2024-11-13 10:33:21,135 - Added new player: Bachirou Yaméogo (ID: 307889)
+2024-11-13 10:33:21,135 - Added new player: Nesta Zahui (ID: 440057)
+2024-11-13 10:33:21,135 - Added new player: Nesta Elphege (ID: 391378)
+2024-11-13 10:33:21,135 - Added new player: Junior Olaitan (ID: 136030)
+2024-11-13 10:33:21,135 - Added new player: Saikou Touray (ID: 135453)
+2024-11-13 10:33:21,135 - Added new player: Mamadou Diop (ID: 133583)
+2024-11-13 10:33:21,135 - Added new player: Mamadou Diarra (ID: 133495)
+2024-11-13 10:33:21,136 - Added new player: Mamady Alex Bangré (ID: 105921)
+2024-11-13 10:33:21,136 - Added new player: Ayoub Jabbari (ID: 71195)
+2024-11-13 10:33:21,136 - Added new player: Loris Mouyokolo (ID: 65435)
+2024-11-13 10:33:21,136 - Added new player: Alan Kerouedan (ID: 39274)
+2024-11-13 10:33:21,136 - Added new player: Pape Meïssa Ba (ID: 32925)
+2024-11-13 10:33:21,136 - Added new player: Eddy Sylvestre (ID: 22317)
+2024-11-13 10:33:21,136 - Added new player: Dante Rigo (ID: 15583)
+2024-11-13 10:33:21,136 - Added new player: Théo Valls (ID: 7314)
+2024-11-13 10:33:21,136 - Added new player: Jessy Benet (ID: 10707)
+2024-11-13 10:33:21,136 - Added new player: Gaëtan Paquiez (ID: 7312)
+2024-11-13 10:33:21,137 - Added new player: Loïc Nestor (ID: 7445)
+2024-11-13 10:33:21,137 - Added new player: Wandja Allan Tchaptchet (ID: 77402)
+2024-11-13 10:33:21,137 - Added new player: Adama Mohamed Camara (ID: 404656)
+2024-11-13 10:33:21,137 - Added new player: Omar Sissoko (ID: 349176)
+2024-11-13 10:33:21,137 - Added new player: Lohann Doucet (ID: 179387)
+2024-11-13 10:33:21,137 - Added new player: Tuomas Ollila (ID: 130547)
+2024-11-13 10:33:21,137 - Added new player: Moustapha Mbow (ID: 121294)
+2024-11-13 10:33:21,137 - Added new player: Josias Tusevo Lukembila (ID: 67140)
+2024-11-13 10:33:21,137 - Added new player: Ilan Kebbal (ID: 45039)
+2024-11-13 10:33:21,137 - Added new player: Jean-Philippe Krasso (ID: 43072)
+2024-11-13 10:33:21,138 - Added new player: Pierre-Yves Hamel (ID: 7186)
+2024-11-13 10:33:21,138 - Added new player: Alimami Gory (ID: 7397)
+2024-11-13 10:33:21,138 - Added new player: Maxime López (ID: 3540)
+2024-11-13 10:33:21,138 - Added new player: Vincent Marchetti (ID: 7440)
+2024-11-13 10:33:21,138 - Added new player: Aboubaka Soumahoro (ID: 349172)
+2024-11-13 10:33:21,138 - Added new player: Mathys Tourraine (ID: 373437)
+2024-11-13 10:33:21,138 - Added new player: Timothée Kolodziejczak (ID: 10476)
+2024-11-13 10:33:21,138 - Added new player: Mohamed Amine Boumaaoui (ID: 339779)
+2024-11-13 10:33:21,138 - Added new player: Jocelyn Janneh (ID: 255662)
+2024-11-13 10:33:21,138 - Added new player: Mathis Touho (ID: 396138)
+2024-11-13 10:33:21,139 - Added new player: Yvan Ikia Dimi (ID: 388403)
+2024-11-13 10:33:21,139 - Added new player: Rayan Lutin (ID: 360101)
+2024-11-13 10:33:21,139 - Added new player: Ibrahim Cheick Junior Fofana (ID: 286705)
+2024-11-13 10:33:21,139 - Added new player: Owen Gene (ID: 146549)
+2024-11-13 10:33:21,139 - Added new player: Remi Vita (ID: 45422)
+2024-11-13 10:33:21,139 - Added new player: Ange Josue Chibozo (ID: 44625)
+2024-11-13 10:33:21,139 - Added new player: Kylian Kaïboué (ID: 46645)
+2024-11-13 10:33:21,139 - Added new player: Mamadou Fofana (ID: 10705)
+2024-11-13 10:33:21,139 - Added new player: Frank Boya (ID: 23899)
+2024-11-13 10:33:21,140 - Added new player: Antoine Leautey (ID: 7538)
+2024-11-13 10:33:21,140 - Added new player: Sébastien Corchia (ID: 6716)
+2024-11-13 10:33:21,140 - Added new player: Mohamed Jaouab (ID: 404556)
+2024-11-13 10:33:21,140 - Added new player: Alpha Amadou Touré (ID: 416544)
+2024-11-13 10:33:21,140 - Added new player: Ibou Sané (ID: 406491)
+2024-11-13 10:33:21,140 - Added new player: Sadibou Sané (ID: 405299)
+2024-11-13 10:33:21,140 - Added new player: Pape Amadou Diallo (ID: 395041)
+2024-11-13 10:33:21,140 - Added new player: Kévin Daniel Van Den Kerkhof (ID: 286708)
+2024-11-13 10:33:21,140 - Added new player: Joseph N'Duquidi (ID: 286704)
+2024-11-13 10:33:21,140 - Added new player: Simon Elisor (ID: 45084)
+2024-11-13 10:33:21,141 - Added new player: Jessy Deminguet (ID: 3800)
+2024-11-13 10:33:21,141 - Added new player: Joel Asoro (ID: 9565)
+2024-11-13 10:33:21,141 - Added new player: Matthieu Udol (ID: 4462)
+2024-11-13 10:33:21,141 - Added new player: Benjamin Stambouli (ID: 8515)
+2024-11-13 10:33:21,141 - Added new player: Alexandre Oukidja (ID: 4448)
+2024-11-13 10:33:21,141 - Added new player: Maxime Colin (ID: 9470)
+2024-11-13 10:33:21,141 - Added new player: Ismaël Traoré (ID: 3045)
+2024-11-13 10:33:21,142 - Added new player: Yvon Landry Mvogo (ID: 11467)
+2024-11-13 10:33:21,142 - Added new player: Eli Junior Kroupi (ID: 391397)
+2024-11-13 10:33:21,142 - Added new player: Darlin Zidane Yongwa Ngameni (ID: 32190)
+2024-11-13 10:33:21,142 - Added new player: Igor Silva de Almeida (ID: 16620)
+2024-11-13 10:33:21,142 - Added new player: Arthur Ebong Avom (ID: 421860)
+2024-11-13 10:33:21,142 - Added new player: Nathaniel Adjei (ID: 287426)
+2024-11-13 10:33:21,142 - Added new player: Cheikh Ahmadou Bamba Mbacke Dieng (ID: 88123)
+2024-11-13 10:33:21,143 - Added new player: Aiyegun Tosin (ID: 32108)
+2024-11-13 10:33:21,143 - Added new player: Gedeon Kalulu Kyatengwa (ID: 30193)
+2024-11-13 10:33:21,143 - Added new player: Pablo Pagis (ID: 186445)
+2024-11-13 10:33:21,143 - Added new player: Laurent Abergel (ID: 7260)
+2024-11-13 10:33:21,143 - Added new player: Formose Mendy (ID: 39595)
+2024-11-13 10:33:21,143 - Added new player: Panos Katseris (ID: 406328)
+2024-11-13 10:33:21,143 - Added new player: Ibrahim Traoré (ID: 428874)
+2024-11-13 10:33:21,143 - Added new player: Cyriaque Kalou Irié (ID: 405167)
+2024-11-13 10:33:21,144 - Added new player: Kouadou Jaurès Assoumou (ID: 383143)
+2024-11-13 10:33:21,144 - Added new player: Abdoulaye Kante (ID: 322533)
+2024-11-13 10:33:21,144 - Added new player: Mouhamed Diop (ID: 153598)
+2024-11-13 10:33:21,144 - Added new player: Rafiki Said Ahamada (ID: 90813)
+2024-11-13 10:33:21,144 - Added new player: Thierno Baldé (ID: 38815)
+2024-11-13 10:33:21,144 - Added new player: Paolo Gozzi Iweru (ID: 24831)
+2024-11-13 10:33:21,144 - Added new player: Nicolas Lemaître (ID: 8109)
+2024-11-13 10:33:21,144 - Added new player: Nicolas de Roussel de Préville (ID: 4383)
+2024-11-13 10:33:21,144 - Added new player: Renaud Ripart (ID: 7505)
+2024-11-13 10:33:21,145 - Added new player: Adrien Monfray (ID: 7521)
+2024-11-13 10:33:21,145 - Added new player: Michel Diaz (ID: 308254)
+2024-11-13 10:33:21,145 - Added new player: Mathis Hamdi (ID: 215116)
+2024-11-13 10:33:21,145 - Added new player: Ryan Fage (ID: 322530)
+2024-11-13 10:33:21,145 - Added new player: Tom Akpakoun (ID: 350893)
+2024-11-13 10:33:21,145 - Added new player: Théo Guivarch (ID: 32927)
+2024-11-13 10:33:21,145 - Added new player: Ivan Adnan Joshua (ID: 429731)
+2024-11-13 10:33:21,145 - Added new player: Jérémy Jacquet (ID: 394982)
+2024-11-13 10:33:21,146 - Added new player: Ethan Kena Kabeya (ID: 432047)
+2024-11-13 10:33:21,146 - Added new player: Cheick Oumar Konaté (ID: 374052)
+2024-11-13 10:33:21,146 - Added new player: Allan Ackra (ID: 345860)
+2024-11-13 10:33:21,146 - Added new player: Mehdi Baaloudj (ID: 286808)
+2024-11-13 10:33:21,146 - Added new player: Massamba Ndiaye (ID: 192425)
+2024-11-13 10:33:21,146 - Added new player: Aïman Maurer (ID: 142312)
+2024-11-13 10:33:21,146 - Added new player: Baïla Diallo (ID: 111032)
+2024-11-13 10:33:21,146 - Added new player: Famara Diédhiou (ID: 13314)
+2024-11-13 10:33:21,146 - Added new player: Henri Saivet (ID: 5110)
+2024-11-13 10:33:21,147 - Added new player: Damien Da Silva (ID: 4386)
+2024-11-13 10:33:21,147 - Added new player: Ousmane Diop (ID: 415436)
+2024-11-13 10:33:21,147 - Added new player: Habib Keita (ID: 106391)
+2024-11-13 10:33:21,147 - Added new player: Josué Mwimba Isala (ID: 440842)
+2024-11-13 10:33:21,147 - Added new player: Musa Toure (ID: 337358)
+2024-11-13 10:33:21,147 - Added new player: Amine Saïd (ID: 310537)
+2024-11-13 10:33:21,147 - Added new player: Christ-Owen Kouassi Bathele (ID: 440058)
+2024-11-13 10:33:21,147 - Added new player: Sam Sanna (ID: 44774)
+2024-11-13 10:33:21,148 - Added new player: Titouan Thomas (ID: 39341)
+2024-11-13 10:33:21,148 - Added new player: Moïse Adilehou (ID: 15308)
+2024-11-13 10:33:21,148 - Added new player: Peter Ouaneh (ID: 24991)
+2024-11-13 10:33:21,148 - Added new player: Kévin Lucien Zohi (ID: 6421)
+2024-11-13 10:33:21,148 - Added new player: Malik Tchokounté (ID: 7423)
+2024-11-13 10:33:21,148 - Added new player: Jimmy Roye (ID: 7546)
+2024-11-13 10:33:21,148 - Added new player: Anthony Gonçalves (ID: 2957)
+2024-11-13 10:33:21,148 - Added new player: Yohan Tavares (ID: 20935)
+2024-11-13 10:33:21,148 - Added new player: Williams Kokolo (ID: 75350)
+2024-11-13 10:33:21,149 - Added new player: Mohamed Bamba (ID: 133410)
+2024-11-13 10:33:21,149 - Added new player: Yanis Hadjem (ID: 186267)
+2024-11-13 10:33:21,149 - Added new player: Milan Robin (ID: 132576)
+2024-11-13 10:33:21,149 - Added new player: Oucasse Mendy (ID: 82186)
+2024-11-13 10:33:21,149 - Added new player: Kaïs Benabdelouahed (ID: 418930)
+2024-11-13 10:33:21,149 - Added new player: Ilyas Zouaoui (ID: 389203)
+2024-11-13 10:33:21,149 - Added new player: Karim Tlili (ID: 133487)
+2024-11-13 10:33:21,149 - Added new player: Jérémy Aymes (ID: 32279)
+2024-11-13 10:33:21,149 - Added new player: Steve Shamal (ID: 22387)
+2024-11-13 10:33:21,149 - Added new player: Jacques Siwe (ID: 107532)
+2024-11-13 10:33:21,150 - Added new player: Matthis Riou (ID: 131059)
+2024-11-13 10:33:21,150 - Added new player: Dago Gnatoa Dylan Ourega (ID: 328883)
+2024-11-13 10:33:21,150 - Added new player: Lucas Maronnier (ID: 186305)
+2024-11-13 10:33:21,150 - Added new player: Brighton Labeau (ID: 4368)
+2024-11-13 10:33:21,150 - Added new player: Sohaib Nair (ID: 422014)
+2024-11-13 10:33:21,150 - Added new player: Junior Armando Mendes (ID: 174381)
+2024-11-13 10:33:21,150 - Added new player: Clément Billemaz (ID: 154220)
+2024-11-13 10:33:21,150 - Added new player: Florian Escales (ID: 22217)
+2024-11-13 10:33:21,150 - Added new player: Thibault Delphis (ID: 404679)
+2024-11-13 10:33:21,150 - Added new player: Kapitbafan Djoco (ID: 175141)
+2024-11-13 10:33:21,151 - Added new player: Moïse Mahop (ID: 91217)
+2024-11-13 10:33:21,151 - Added new player: Fabrice N'Sakala (ID: 30280)
+2024-11-13 10:33:21,151 - Added new player: Vincent Pajot (ID: 3414)
+2024-11-13 10:33:21,151 - Added new player: Noha Lemina (ID: 144069)
+2024-11-13 10:33:21,151 - Added new player: Jean Lambert Evans (ID: 31406)
+2024-11-13 10:33:21,151 - Added new player: Mehdi Jeannin (ID: 8451)
+2024-11-13 10:33:21,151 - Added new player: Thérence Koudou (ID: 386835)
+2024-11-13 10:33:21,151 - Added new player: Yirigue Sekongo (ID: 431376)
+2024-11-13 10:33:21,151 - Added new player: Ewen Jaouen (ID: 394166)
+2024-11-13 10:33:21,151 - Added new player: Enzo Bardeli (ID: 38773)
+2024-11-13 10:33:21,152 - Added new player: Maxence Rivera (ID: 34210)
+2024-11-13 10:33:21,152 - Added new player: Opa Sangante (ID: 7568)
+2024-11-13 10:33:21,152 - Added new player: Adrián Ortolá Vañó (ID: 30594)
+2024-11-13 10:33:21,152 - Added new player: Abner Felipe Souza de Almeida (ID: 29642)
+2024-11-13 10:33:21,152 - Added new player: Aurélien Pelon (ID: 391396)
+2024-11-13 10:33:21,152 - Added new player: Loni Quenabio (ID: 219141)
+2024-11-13 10:33:21,152 - Added new player: Mohamed Achi (ID: 182866)
+2024-11-13 10:33:21,152 - Added new player: Yannis  Verdier (ID: 135824)
+2024-11-13 10:33:21,153 - Added new player: Dany Jean (ID: 109194)
+2024-11-13 10:33:21,153 - Added new player: Wilitty Younoussa (ID: 47449)
+2024-11-13 10:33:21,153 - Added new player: Noah Cadiou (ID: 45467)
+2024-11-13 10:33:21,153 - Added new player: Waniss Taïbi (ID: 45024)
+2024-11-13 10:33:21,153 - Added new player: Mohamed Bouchouari (ID: 31844)
+2024-11-13 10:33:21,153 - Added new player: Timothée NKada (ID: 31309)
+2024-11-13 10:33:21,153 - Added new player: Giovanni Haag (ID: 21991)
+2024-11-13 10:33:21,153 - Added new player: Eric Vandenabeele (ID: 9861)
+2024-11-13 10:33:21,153 - Added new player: Sébastien Cibois (ID: 45173)
+2024-11-13 10:33:21,154 - Added new player: Abdel Hakim Abdallah (ID: 32761)
+2024-11-13 10:33:21,154 - Added new player: Lionel Mpasi-Nzau (ID: 35413)
+2024-11-13 10:33:21,154 - Added new player: Joris Chougrani (ID: 28341)
+2024-11-13 10:33:21,154 - Added new player: Derek Mazou-Sacko (ID: 132320)
+2024-11-13 10:33:21,154 - Added new player: Merwan Ifnaoui (ID: 381902)
+2024-11-13 10:33:21,154 - Added new player: Alioune Fall (ID: 345826)
+2024-11-13 10:33:21,154 - Added new player: Dylan Durivaux (ID: 301968)
+2024-11-13 10:33:21,154 - Added new player: Ryad Hachem (ID: 133468)
+2024-11-13 10:33:21,154 - Added new player: José Dembi (ID: 46646)
+2024-11-13 10:33:21,154 - Added new player: Hacene Benali (ID: 46134)
+2024-11-13 10:33:21,154 - Added new player: Samuel Renel (ID: 36680)
+2024-11-13 10:33:21,155 - Added new player: Loïc Kouagba (ID: 45042)
+2024-11-13 10:33:21,155 - Added new player: Aniss El Hriti (ID: 7315)
+2024-11-13 10:33:21,155 - Added new player: Joachim Eickmayer (ID: 28448)
+2024-11-13 10:33:21,155 - Added new player: Quentin Beunardeau (ID: 4901)
+2024-11-13 10:33:21,155 - Added new player: Ivann Quentin Botella (ID: 45343)
+2024-11-13 10:33:21,155 - Added new player: Marcellin Achille Anani (ID: 34761)
+2024-11-13 10:33:21,155 - Added new player: Fodé Doucouré (ID: 46005)
+2024-11-13 10:33:21,155 - Added new player: Bissenty Mendy (ID: 49191)
+2024-11-13 10:33:21,155 - Added new player: Josué Escartin (ID: 304779)
+2024-11-13 10:33:21,156 - Added new player: Hiang'a Mananga Mbock (ID: 33075)
+2024-11-13 10:33:21,156 - Added new player: Bradley Danger (ID: 45088)
+2024-11-13 10:33:21,156 - Added new player: Mathias Autret (ID: 7434)
+2024-11-13 10:33:21,156 - Added new player: Kalifa Coulibaly (ID: 4403)
+2024-11-13 10:33:21,156 - Added new player: Yannis Clementia (ID: 29964)
+2024-11-13 10:33:21,156 - Added new player: Bilal Brahimi (ID: 131032)
+2024-11-13 10:33:21,156 - Added new player: Diabé Bolumbu (ID: 226767)
+2024-11-13 10:33:21,156 - Added new player: Zyed Beltaief (ID: 410674)
+2024-11-13 10:33:21,156 - Added new player: François-Joseph Sollacaro (ID: 33397)
+2024-11-13 10:33:21,157 - Added new player: Mickaël Barreto (ID: 7811)
+2024-11-13 10:33:21,157 - Added new player: Benjamin Santelli (ID: 28446)
+2024-11-13 10:33:21,157 - Added new player: Stephen Quemper (ID: 45699)
+2024-11-13 10:33:21,157 - Added new player: Tony Strata (ID: 245383)
+2024-11-13 10:33:21,157 - Added new player: Mohamed Amine Sbai (ID: 91190)
+2024-11-13 10:33:21,157 - Added new player: Lenny Joseph (ID: 90954)
+2024-11-13 10:33:21,157 - Added new player: Bobby Allain (ID: 22152)
+2024-11-13 10:33:21,157 - Added new player: Nolan Mbemba (ID: 7443)
+2024-11-13 10:33:21,157 - Added new player: Brice Maubleu (ID: 9865)
+2024-11-13 10:33:21,158 - Added new player: Arial Benabent Mendy (ID: 19019)
+2024-11-13 10:33:21,158 - Added new player: Shaquil Delos (ID: 33193)
+2024-11-13 10:33:21,158 - Added new player: Jules Gaudin (ID: 114593)
+2024-11-13 10:33:21,158 - Added new player: Julien Yves Rémi López Baila (ID: 7554)
+2024-11-13 10:33:21,158 - Added new player: Nouha Dicko (ID: 9646)
+2024-11-13 10:33:21,158 - Added new player: Obed Nkambadio (ID: 47352)
+2024-11-13 10:33:21,158 - Added new player: Tom Meynadier (ID: 405681)
+2024-11-13 10:33:21,158 - Added new player: Samir Belloumou (ID: 133492)
+2024-11-13 10:33:21,158 - Added new player: Vignon Mathieu Patrick Ouotro (ID: 425416)
+2024-11-13 10:33:21,158 - Added new player: Max Bonalair (ID: 440421)
+2024-11-13 10:33:21,159 - Added new player: Luan Gautier (ID: 440422)
+2024-11-13 10:33:21,159 - Added new player: Donatien Gomis (ID: 91208)
+2024-11-13 10:33:21,159 - Added new player: Dylan Louiserre (ID: 7810)
+2024-11-13 10:33:21,159 - Added new player: Amine Hemia (ID: 176253)
+2024-11-13 10:33:21,159 - Added new player: Pierre Lemonnier (ID: 28356)
+2024-11-13 10:33:21,159 - Added new player: Nelson Sissoko (ID: 7608)
+2024-11-13 10:33:21,159 - Added new player: Kalidou Sidibé (ID: 21084)
+2024-11-13 10:33:21,159 - Added new player: Enzo Basilio (ID: 45065)
+2024-11-13 10:33:21,159 - Added new player: Lebogang Phiri (ID: 3046)
+2024-11-13 10:33:21,159 - Added new player: Lenny Vallier (ID: 22302)
+2024-11-13 10:33:21,160 - Added new player: Amadou Sagna (ID: 44763)
+2024-11-13 10:33:21,160 - Added new player: Rayan Touzghar (ID: 143744)
+2024-11-13 10:33:21,160 - Added new player: Taylor Luvambo (ID: 286807)
+2024-11-13 10:33:21,160 - Added new player: Hugo Picard (ID: 332936)
+2024-11-13 10:33:21,160 - Added new player: Severin Sabri Guendouz (ID: 440059)
+2024-11-13 10:33:21,160 - Added new player: Karim Cissé (ID: 404676)
+2024-11-13 10:33:21,160 - Added new player: Julien Kouadio (ID: 134976)
+2024-11-13 10:33:21,160 - Added new player: Ahmed Kashi (ID: 3915)
+2024-11-13 10:33:21,160 - Added new player: François Lajugie (ID: 45406)
+2024-11-13 10:33:21,160 - Added new player: Yohann Demoncy (ID: 10617)
+2024-11-13 10:33:21,161 - Added new player: Antoine Larose (ID: 154222)
+2024-11-13 10:33:21,161 - Added new player: Gaby Jean (ID: 235484)
+2024-11-13 10:33:21,161 - Added new player: Hamjatou Soukouna (ID: 300177)
+2024-11-13 10:33:21,161 - Added new player: Goteh Ntignee (ID: 313111)
+2024-11-13 10:33:21,161 - Added new player: Samuel Ntamack Ndimba (ID: 364821)
+2024-11-13 10:33:21,161 - Added new player: Trevis Dago (ID: 396490)
+2024-11-13 10:33:21,161 - Added new player: Axel Drouhin (ID: 410445)
+2024-11-13 10:33:21,161 - Added new player: Anthony Bermont (ID: 411684)
+2024-11-13 10:33:21,161 - Added new player: Ritchy Valme (ID: 409767)
+2024-11-13 10:33:21,161 - Added new player: Wendkuuni Josué Tiendrébéogo (ID: 440865)
+2024-11-13 10:33:21,162 - Added new player: Fidèle Bongelo (ID: 375281)
+2024-11-13 10:33:21,162 - Added new player: Bingourou Kamara (ID: 3208)
+2024-11-13 10:33:21,162 - Added new player: Kandet Diawara (ID: 415274)
+2024-11-13 10:33:21,162 - Added new player: Pathé Mboup (ID: 350186)
+2024-11-13 10:33:21,162 - Added new player: Yonis Njoh (ID: 143752)
+2024-11-13 10:33:21,162 - Added new player: Antoine Mille (ID: 140253)
+2024-11-13 10:33:21,162 - Added new player: Ousmane Kanté (ID: 19020)
+2024-11-13 10:33:21,162 - Added new player: Jean Ruiz (ID: 7238)
+2024-11-13 10:33:21,162 - Added new player: Antonin Bobichon (ID: 7330)
+2024-11-13 10:33:21,162 - Added new player: Jordy Gaspar (ID: 40643)
+2024-11-13 10:33:21,163 - Added new player: Kenji Van Boto (ID: 7807)
+2024-11-13 10:33:21,163 - Added new player: Khalid Boutaïb (ID: 5726)
+2024-11-13 10:33:21,163 - Added new player: Xavier Laglais Kouassi (ID: 28958)
+2024-11-13 10:33:21,163 - Added new player: Steeve Beusnard (ID: 8985)
+2024-11-13 10:33:21,163 - Added new player: Kylian Gasnier (ID: 38896)
+2024-11-13 10:33:21,163 - Added new player: Mehdi Chahiri (ID: 45154)
+2024-11-13 10:33:21,163 - Added new player: Taïryk Arconte (ID: 92973)
+2024-11-13 10:33:21,163 - Added new player: Iyad Mohamed (ID: 131047)
+2024-11-13 10:33:21,163 - Added new player: Oumar Ngom (ID: 188885)
+2024-11-13 10:33:21,163 - Added new player: Kouadio Guy Ange Ahoussou (ID: 304639)
+2024-11-13 10:33:21,164 - Added new player: Joseph Kalulu Kyatengwa (ID: 409779)
+2024-11-13 10:33:21,164 - Added new player: Nachon Nsingi (ID: 282992)
+2024-11-13 10:33:21,164 - Added new player: Kay Tejan (ID: 132709)
+2024-11-13 10:33:21,164 - Added new player: Vincent Julien Sasso (ID: 10845)
+2024-11-13 10:33:21,164 - Added new player: Gaëtan Courtet (ID: 7205)
+2024-11-13 10:33:21,164 - Added new player: Yacine Bammou (ID: 3319)
+2024-11-13 10:33:21,164 - Added new player: Bendjaloud Salmata Youssouf (ID: 7490)
+2024-11-13 10:33:21,164 - Added new player: Alec Georgen (ID: 45086)
+2024-11-13 10:33:21,164 - Added new player: Loïc Bessile (ID: 49226)
+2024-11-13 10:33:21,164 - Added new player: Marco Rachid Essimi Ateba (ID: 409777)
+2024-11-13 10:33:21,165 - Added new player: Diogo Lucas Queirós (ID: 31192)
+2024-11-13 10:33:21,165 - Added new player: Naatan Skyttä (ID: 42537)
+2024-11-13 10:33:21,165 - Added new player: Christian Senneville (ID: 45460)
+2024-11-13 10:33:21,165 - Added new player: Ugo Raghouber (ID: 140480)
+2024-11-13 10:33:21,165 - Added new player: Nehemiah Fernandez-Veliz (ID: 167348)
+2024-11-13 10:33:21,165 - Added new player: Gessime Yassine (ID: 311113)
+2024-11-13 10:33:21,165 - Added new player: Geoffrey Kondo (ID: 329942)
+2024-11-13 10:33:21,165 - Added new player: Cheick Mohamed Doumbia (ID: 440061)
+2024-11-13 10:33:21,165 - Added new player: Nolan Galves (ID: 395045)
+2024-11-13 10:33:21,165 - Added new player: Tawfik Bentayeb (ID: 313286)
+2024-11-13 10:33:21,166 - Added new player: Ibrahima Baldé (ID: 158938)
+2024-11-13 10:33:21,166 - Added new player: Stone Muzalimoja Mambo (ID: 30705)
+2024-11-13 10:33:21,166 - Added new player: Ahmad Toure Ngouyamsa Nounchil (ID: 42335)
+2024-11-13 10:33:21,166 - Added new player: Aliou Badji (ID: 23619)
+2024-11-13 10:33:21,166 - Added new player: Damien Durand (ID: 45698)
+2024-11-13 10:33:21,166 - Added new player: Kémo Cissé (ID: 330434)
+2024-11-13 10:33:21,166 - Added new player: Louis Moussier (ID: 397465)
+2024-11-13 10:33:21,166 - Added new player: Florian Bianchini (ID: 48485)
+2024-11-13 10:33:21,166 - Added new player: Cyrille Loic Onana Etoga (ID: 407635)
+2024-11-13 10:33:21,166 - Added new player: Clément Rodrigues (ID: 362693)
+2024-11-13 10:33:21,167 - Added new player: Zakaria Ariss (ID: 224512)
+2024-11-13 10:33:21,167 - Added new player: Gustave Akueson (ID: 144507)
+2024-11-13 10:33:21,167 - Added new player: Amine Boutrah (ID: 132805)
+2024-11-13 10:33:21,167 - Added new player: Dylan Tavares dos Santos (ID: 48342)
+2024-11-13 10:33:21,167 - Added new player: Florian Bohnert (ID: 46782)
+2024-11-13 10:33:21,167 - Added new player: Anthony Roncaglia (ID: 46456)
+2024-11-13 10:33:21,167 - Added new player: Julien Maggiotti (ID: 45532)
+2024-11-13 10:33:21,167 - Added new player: Lisandru Tramoni (ID: 33398)
+2024-11-13 10:33:21,167 - Added new player: Tom Ducrocq (ID: 44726)
+2024-11-13 10:33:21,167 - Added new player: Félix Tomi (ID: 22223)
+2024-11-13 10:33:21,168 - Added new player: Dominique Guidi (ID: 18781)
+2024-11-13 10:33:21,168 - Added new player: Johny Placide (ID: 3980)
+2024-11-13 10:33:21,168 - Added new player: Christophe Vincent (ID: 45695)
+2024-11-13 10:33:21,168 - Added new player: Juan José Guevara Possú (ID: 425032)
+2024-11-13 10:33:21,168 - Added new player: Andy Carroll (ID: 4271)
+2024-11-13 10:33:21,168 - Added new player: Nordine Kandil (ID: 134961)
+2024-11-13 10:33:21,168 - Added new player: Messy Mubundu Manitu (ID: 429371)
+2024-11-13 10:33:21,168 - Added new player: Siaka Bakayoko (ID: 415325)
+2024-11-13 10:33:21,168 - Added new player: Amine Chabane (ID: 397461)
+2024-11-13 10:33:21,168 - Added new player: Yan Marillat (ID: 7503)
+2024-11-13 10:33:21,169 - Added new player: Régis Gurtner (ID: 3127)
+2024-11-13 10:33:21,169 - Added new player: Osaze Urhoghide (ID: 34207)
+2024-11-13 10:33:21,169 - Added new player: Louis Didace Mafouta (ID: 49163)
+2024-11-13 10:33:21,169 - Added new player: Elyess Dao (ID: 307314)
+2024-11-13 10:33:21,169 - Added new player: Mactar Tine (ID: 422073)
+2024-11-13 10:33:21,169 - Added new player: Gauthier Hein (ID: 3105)
+2024-11-13 10:33:21,169 - Added new player: Ablie Jallow (ID: 4471)
+2024-11-13 10:33:21,169 - Added new player: Koffi Franck Kouao (ID: 131901)
+2024-11-13 10:33:21,169 - Added new player: Fali Candé (ID: 41052)
+2024-11-13 10:33:21,169 - Added new player: Aboubacar Lô (ID: 132573)
+2024-11-13 10:33:21,170 - Added new player: Cheikh Tidiane Sabaly (ID: 34884)
+2024-11-13 10:33:21,170 - Added new player: Morgan Bokele Mputu (ID: 328882)
+2024-11-13 10:33:21,170 - Added new player: Pape Mamadou Sy (ID: 407279)
+2024-11-13 10:33:21,170 - Added new player: Joel Mugisha (ID: 133834)
+2024-11-13 10:33:21,170 - Added new player: Jean-Victor Makengo (ID: 4255)
+2024-11-13 10:33:21,170 - Added new player: Julien Laporte (ID: 7570)
+2024-11-13 10:33:21,170 - Added new player: Julien Ponceau (ID: 11811)
+2024-11-13 10:33:21,170 - Added new player: Montassar Omar Talbi (ID: 32450)
+2024-11-13 10:33:21,170 - Added new player: Sambou Soumano (ID: 91207)
+2024-11-13 10:33:21,170 - Added new player: Théo Le Bris (ID: 134916)
+2024-11-13 10:33:21,171 - Added new player: Mohamed Bamba (ID: 405154)
+2024-11-13 10:33:21,171 - Added new player: Enzo Genton (ID: 421863)
+2024-11-13 10:33:21,171 - Added new player: Isaac James Ogiri (ID: 440420)
+2024-11-13 10:33:21,171 - Added new player: Joseph Nonge Boende (ID: 199108)
+2024-11-13 10:33:21,171 - Added new player: Mehdi Jean Tahrat (ID: 3188)
+2024-11-13 10:33:21,171 - Added new player: Andreas Bruus (ID: 36999)
+2024-11-13 10:33:21,171 - Added new player: Kyliane Dong (ID: 291865)
+2024-11-13 10:33:21,171 - Added new player: Xavier Chavalerin (ID: 7364)
+2024-11-13 10:33:21,171 - Added new player: Youssouf M'Changama (ID: 7377)
+2024-11-13 10:33:21,171 - Added new player: Houboulang Mendes (ID: 9361)
+2024-11-13 10:33:21,172 - Added new player: Pape Ibnou Bâ (ID: 45064)
+2024-11-13 10:33:21,172 - Added new player: Ismaël Boura (ID: 45191)
+2024-11-13 10:33:21,172 - Added new player: Martin Adeline (ID: 174498)
+2024-11-13 10:33:21,172 - Added new player: Yadaly Diaby (ID: 162131)
+2024-11-13 10:33:21,172 - Added new player: Yohann Magnin (ID: 22137)
+2024-11-13 10:33:21,172 - Added new player: Johan Gastien (ID: 7626)
+2024-11-13 10:33:21,172 - Added new player: Yoël Armougom (ID: 4801)
+2024-11-13 10:33:21,172 - Added new player: Mohamed-Amine Bouchenna (ID: 135102)
+2024-11-13 10:33:21,172 - Added new player: Maïdine Douane (ID: 188436)
+2024-11-13 10:33:21,172 - Added new player: Marks Zadi Inchaud (ID: 322110)
+2024-11-13 10:33:21,173 - Added new player: Mamadou Samassa (ID: 2967)
+2024-11-13 10:33:21,173 - Added new player: Jordan Tell (ID: 3194)
+2024-11-13 10:33:21,173 - Added new player: William Bianda (ID: 7813)
+2024-11-13 10:33:21,173 - Added new player: Thibaut Vargas (ID: 35276)
+2024-11-13 10:33:21,173 - Added new player: Junior Morau Kadile (ID: 38779)
+2024-11-13 10:33:21,173 - Added new player: Siriné Doucouré (ID: 45083)
+2024-11-13 10:33:21,173 - Added new player: Malik Sellouki (ID: 86721)
+2024-11-13 10:33:21,173 - Added new player: Loïs Martins (ID: 153190)
+2024-11-13 10:33:21,173 - Added new player: Mamadou Camara (ID: 183770)
+2024-11-13 10:33:21,173 - Added new player: Mohamed Amine Cherni (ID: 404571)
+2024-11-13 10:33:21,174 - Added new player: Leandro Morante (ID: 47232)
+2024-11-13 10:33:21,174 - Added new player: Ayoub Amraoui (ID: 142328)
+2024-11-13 10:33:21,174 - Added new player: Akim Djaha (ID: 133488)
+2024-11-13 10:33:21,174 - Added new player: Alain Mouya Ipiélé (ID: 300551)
+2024-11-13 10:33:21,174 - Added new player: Simon Falette (ID: 3104)
+2024-11-13 10:33:21,174 - Added new player: Steve Solvet (ID: 46034)
+2024-11-13 10:33:21,174 - Added new player: Bevic Moussiti-Oko (ID: 7715)
+2024-11-13 10:33:21,174 - Added new player: Mahame Siby (ID: 22139)
+2024-11-13 10:33:21,174 - Added new player: Nathanaël Ruben Saintini (ID: 132485)
+2024-11-13 10:33:21,174 - Added new player: Abdoul Diawara (ID: 133493)
+2024-11-13 10:33:21,175 - Added new player: Lamine Cisse (ID: 114309)
+2024-11-13 10:33:21,175 - Added new player: Zacharie Boucher (ID: 7348)
+2024-11-13 10:33:21,175 - Added new player: Mons Bassouamina (ID: 10713)
+2024-11-13 10:33:21,175 - Added new player: Rayan Ghrieb (ID: 300553)
+2024-11-13 10:33:21,175 - Added new player: Tieri Godame (ID: 421909)
+2024-11-13 10:33:21,175 - Added new player: Arthur Atta (ID: 357299)
+2024-11-13 10:33:21,175 - Added new player: Léo Milliner (ID: 408232)
+2024-11-13 10:33:21,175 - Added new player: Julien Anziani (ID: 7373)
+2024-11-13 10:33:21,176 - Finished updating player info table.
+2024-11-13 10:38:48,086 - Finished updating player playtime for match ID: 3949177
+2024-11-13 10:38:48,716 - Finished updating player playtime for match ID: 3949178
+2024-11-13 10:38:49,252 - Finished updating player playtime for match ID: 3949179
+2024-11-13 10:38:49,858 - Finished updating player playtime for match ID: 3949180
+2024-11-13 10:38:50,424 - Finished updating player playtime for match ID: 3949181
+2024-11-13 10:38:50,922 - Finished updating player playtime for match ID: 3949182
+2024-11-13 10:38:51,501 - Finished updating player playtime for match ID: 3949183
+2024-11-13 10:38:52,089 - Finished updating player playtime for match ID: 3949184
+2024-11-13 10:38:52,618 - Finished updating player playtime for match ID: 3949185
+2024-11-13 10:38:53,232 - Finished updating player playtime for match ID: 3949186
+2024-11-13 10:38:53,814 - Finished updating player playtime for match ID: 3949187
+2024-11-13 10:38:54,409 - Finished updating player playtime for match ID: 3949188
+2024-11-13 10:38:54,942 - Finished updating player playtime for match ID: 3949189
+2024-11-13 10:38:55,413 - Finished updating player playtime for match ID: 3949190
+2024-11-13 10:38:56,001 - Finished updating player playtime for match ID: 3949191
+2024-11-13 10:38:56,518 - Finished updating player playtime for match ID: 3949192
+2024-11-13 10:38:56,990 - Finished updating player playtime for match ID: 3949193
+2024-11-13 10:38:57,482 - Finished updating player playtime for match ID: 3949194
+2024-11-13 10:38:57,991 - Finished updating player playtime for match ID: 3949195
+2024-11-13 10:38:58,491 - Finished updating player playtime for match ID: 3949196
+2024-11-13 10:38:59,022 - Finished updating player playtime for match ID: 3949197
+2024-11-13 10:38:59,547 - Finished updating player playtime for match ID: 3949198
+2024-11-13 10:39:00,128 - Finished updating player playtime for match ID: 3949199
+2024-11-13 10:39:00,675 - Finished updating player playtime for match ID: 3949200
+2024-11-13 10:39:01,299 - Finished updating player playtime for match ID: 3949201
+2024-11-13 10:39:01,905 - Finished updating player playtime for match ID: 3949202
+2024-11-13 10:39:02,460 - Finished updating player playtime for match ID: 3949203
+2024-11-13 10:39:02,996 - Finished updating player playtime for match ID: 3949204
+2024-11-13 10:39:03,474 - Finished updating player playtime for match ID: 3949205
+2024-11-13 10:39:04,040 - Finished updating player playtime for match ID: 3949206
+2024-11-13 10:39:04,697 - Finished updating player playtime for match ID: 3949207
+2024-11-13 10:39:05,160 - Finished updating player playtime for match ID: 3949208
+2024-11-13 10:39:05,658 - Finished updating player playtime for match ID: 3949209
+2024-11-13 10:39:06,212 - Finished updating player playtime for match ID: 3949210
+2024-11-13 10:39:06,707 - Finished updating player playtime for match ID: 3949211
+2024-11-13 10:39:07,300 - Finished updating player playtime for match ID: 3949212
+2024-11-13 10:39:07,847 - Finished updating player playtime for match ID: 3949213
+2024-11-13 10:39:08,452 - Finished updating player playtime for match ID: 3949214
+2024-11-13 10:39:08,934 - Finished updating player playtime for match ID: 3949215
+2024-11-13 10:39:09,400 - Finished updating player playtime for match ID: 3949216
+2024-11-13 10:39:09,980 - Finished updating player playtime for match ID: 3949217
+2024-11-13 10:39:10,568 - Finished updating player playtime for match ID: 3949218
+2024-11-13 10:39:11,095 - Finished updating player playtime for match ID: 3949219
+2024-11-13 10:39:11,682 - Finished updating player playtime for match ID: 3949220
+2024-11-13 10:39:12,179 - Finished updating player playtime for match ID: 3949221
+2024-11-13 10:39:12,772 - Finished updating player playtime for match ID: 3949222
+2024-11-13 10:39:13,347 - Finished updating player playtime for match ID: 3949223
+2024-11-13 10:39:13,836 - Finished updating player playtime for match ID: 3949224
+2024-11-13 10:39:14,293 - Finished updating player playtime for match ID: 3949225
+2024-11-13 10:39:14,781 - Finished updating player playtime for match ID: 3949226
+2024-11-13 10:39:15,404 - Finished updating player playtime for match ID: 3949227
+2024-11-13 10:39:15,895 - Finished updating player playtime for match ID: 3949228
+2024-11-13 10:39:16,380 - Finished updating player playtime for match ID: 3949229
+2024-11-13 10:39:16,939 - Finished updating player playtime for match ID: 3949230
+2024-11-13 10:39:17,475 - Finished updating player playtime for match ID: 3949231
+2024-11-13 10:39:18,012 - Finished updating player playtime for match ID: 3949232
+2024-11-13 10:39:18,565 - Finished updating player playtime for match ID: 3949233
+2024-11-13 10:39:19,203 - Finished updating player playtime for match ID: 3949234
+2024-11-13 10:39:19,772 - Finished updating player playtime for match ID: 3949235
+2024-11-13 10:39:20,357 - Finished updating player playtime for match ID: 3949236
+2024-11-13 10:39:20,947 - Finished updating player playtime for match ID: 3949237
+2024-11-13 10:39:21,518 - Finished updating player playtime for match ID: 3949238
+2024-11-13 10:39:22,037 - Finished updating player playtime for match ID: 3949239
+2024-11-13 10:39:22,541 - Finished updating player playtime for match ID: 3949240
+2024-11-13 10:39:23,006 - Finished updating player playtime for match ID: 3949241
+2024-11-13 10:39:23,609 - Finished updating player playtime for match ID: 3949242
+2024-11-13 10:39:24,160 - Finished updating player playtime for match ID: 3949243
+2024-11-13 10:39:24,642 - Finished updating player playtime for match ID: 3949244
+2024-11-13 10:39:25,168 - Finished updating player playtime for match ID: 3949245
+2024-11-13 10:39:25,774 - Finished updating player playtime for match ID: 3949246
+2024-11-13 10:39:26,377 - Finished updating player playtime for match ID: 3949247
+2024-11-13 10:39:26,952 - Finished updating player playtime for match ID: 3949248
+2024-11-13 10:39:27,613 - Finished updating player playtime for match ID: 3949249
+2024-11-13 10:39:28,185 - Finished updating player playtime for match ID: 3949250
+2024-11-13 10:39:28,781 - Finished updating player playtime for match ID: 3949251
+2024-11-13 10:39:29,329 - Finished updating player playtime for match ID: 3949252
+2024-11-13 10:39:29,844 - Finished updating player playtime for match ID: 3949253
+2024-11-13 10:39:30,425 - Finished updating player playtime for match ID: 3949254
+2024-11-13 10:39:30,925 - Finished updating player playtime for match ID: 3949255
+2024-11-13 10:39:31,464 - Finished updating player playtime for match ID: 3949256
+2024-11-13 10:39:32,000 - Finished updating player playtime for match ID: 3949257
+2024-11-13 10:39:32,687 - Finished updating player playtime for match ID: 3949258
+2024-11-13 10:39:33,262 - Finished updating player playtime for match ID: 3949259
+2024-11-13 10:39:33,815 - Finished updating player playtime for match ID: 3949260
+2024-11-13 10:39:34,391 - Finished updating player playtime for match ID: 3949262
+2024-11-13 10:39:34,966 - Finished updating player playtime for match ID: 3949263
+2024-11-13 10:39:35,555 - Finished updating player playtime for match ID: 3949264
+2024-11-13 10:39:36,102 - Finished updating player playtime for match ID: 3949265
+2024-11-13 10:39:36,621 - Finished updating player playtime for match ID: 3949266
+2024-11-13 10:39:37,164 - Finished updating player playtime for match ID: 3949267
+2024-11-13 10:39:37,779 - Finished updating player playtime for match ID: 3949268
+2024-11-13 10:39:38,277 - Finished updating player playtime for match ID: 3949269
+2024-11-13 10:39:38,834 - Finished updating player playtime for match ID: 3949270
+2024-11-13 10:39:39,320 - Finished updating player playtime for match ID: 3949271
+2024-11-13 10:39:39,923 - Finished updating player playtime for match ID: 3949272
+2024-11-13 10:39:40,461 - Finished updating player playtime for match ID: 3949273
+2024-11-13 10:39:40,958 - Finished updating player playtime for match ID: 3949274
+2024-11-13 10:39:41,456 - Finished updating player playtime for match ID: 3949275
+2024-11-13 10:39:42,033 - Finished updating player playtime for match ID: 3949276
+2024-11-13 10:39:42,564 - Finished updating player playtime for match ID: 3949277
+2024-11-13 10:39:43,142 - Finished updating player playtime for match ID: 3949278
+2024-11-13 10:39:43,737 - Finished updating player playtime for match ID: 3949279
+2024-11-13 10:39:44,216 - Finished updating player playtime for match ID: 3949280
+2024-11-13 10:39:44,816 - Finished updating player playtime for match ID: 3949281
+2024-11-13 10:39:45,419 - Finished updating player playtime for match ID: 3949282
+2024-11-13 10:39:45,995 - Finished updating player playtime for match ID: 3949283
+2024-11-13 10:39:46,501 - Finished updating player playtime for match ID: 3949284
+2024-11-13 10:39:46,998 - Finished updating player playtime for match ID: 3949285
+2024-11-13 10:39:47,470 - Finished updating player playtime for match ID: 3949286
+2024-11-13 10:39:48,048 - Finished updating player playtime for match ID: 3949287
+2024-11-13 10:39:48,585 - Finished updating player playtime for match ID: 3949288
+2024-11-13 10:39:49,212 - Finished updating player playtime for match ID: 3949289
+2024-11-13 10:39:49,827 - Finished updating player playtime for match ID: 3949290
+2024-11-13 10:39:50,277 - Finished updating player playtime for match ID: 3949291
+2024-11-13 10:39:50,799 - Finished updating player playtime for match ID: 3949292
+2024-11-13 10:39:51,402 - Finished updating player playtime for match ID: 3949293

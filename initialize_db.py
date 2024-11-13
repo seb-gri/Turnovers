@@ -65,5 +65,25 @@ def initialize_db(db_name):
         primary_position TEXT
     )''')
 
+    # Création de la table relances_joueur pour les relances depuis le propre camp
+    cursor.execute('''CREATE TABLE IF NOT EXISTS relances_joueur (
+        pass_id TEXT PRIMARY KEY,
+        player_id INTEGER,
+        player_name TEXT,
+        team_name TEXT,
+        match_id INTEGER,
+        match_teams TEXT,
+        match_date TEXT,
+        pass_result TEXT,
+        recipient_name TEXT,
+        start_x REAL,
+        start_y REAL,
+        end_x REAL,
+        end_y REAL,
+        under_pressure INTEGER,
+        FOREIGN KEY(match_id) REFERENCES matches(match_id),
+        FOREIGN KEY(player_id) REFERENCES player_info(player_id)
+    )''')
+
     conn.commit()
     conn.close()

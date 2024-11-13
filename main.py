@@ -6,6 +6,7 @@ from initialize_db import initialize_db
 from update_db_with_new_matches import update_db_with_new_matches
 from update_player_playtime import update_player_playtime
 from update_player_info import update_player_season_stats
+from update_player_passes import fetch_and_insert_player_passes
 from utils import convert_timestamp_to_seconds
 import sqlite3
 from data_processing import calculate_team_turnover_ratios
@@ -25,6 +26,9 @@ def main():
     # Mettre à jour la base de données avec les nouveaux matchs joués
     update_db_with_new_matches(db_name, competition_id, season_id)
 
+    # Mettre à jour la base de données avec les relances des joueurs initiées dans leur camp
+    fetch_and_insert_player_passes(db_name, competition_id, season_id)
+
     # Récupérer tous les matchs déjà insérés dans la base pour mettre à jour le temps de jeu des joueurs
     conn = sqlite3.connect(db_name)
     cursor = conn.cursor()
@@ -41,10 +45,10 @@ def main():
     team_stats = calculate_team_turnover_ratios(db_name)
 
     # Générer le classement au format PDF
-    today = datetime.today().strftime('%Y-%m-%d')
-    output_file = f"classement_turnovers_{today}.pdf"
-    generate_pdf_report(team_stats, output_file)
-    print(f"Rapport PDF généré: {output_file}")
+    # today = datetime.today().strftime('%Y-%m-%d')
+    # output_file = f"classement_turnovers_{today}.pdf"
+    # generate_pdf_report(team_stats, output_file)
+    # print(f"Rapport PDF généré: {output_file}")
 
 if __name__ == "__main__":
     main()
