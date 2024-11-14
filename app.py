@@ -9,6 +9,8 @@ from app.main_page import home
 from app.team_ranking import team_ranking
 from app.player_ranking import player_ranking
 from app.relances.relances import relances_page
+from app.relances.advanced_buildup_analysis import advanced_buildup_analysis
+from app.relances.pass_relations import pass_relations
 
 # Titre principal du projet
 st.title("Tableau de bord Clermont Foot 63")
@@ -35,12 +37,12 @@ elif main_menu == "Pertes techniques":
 elif main_menu == "Relances":
     # Navigation spécifique à "Relances"
     st.sidebar.title("Navigation - Relances")
-    relances_page_selection = st.sidebar.radio("Aller à", ("Accueil", "Statistiques Relances", "Analyse Avancée"))
+    relances_page_selection = st.sidebar.radio("Aller à", ("Accueil", "Analyse Avancée", "Relations de passes"))
 
     # Affichage de la page sélectionnée dans "Relances"
     if relances_page_selection == "Accueil":
         relances_page()
-    elif relances_page_selection == "Statistiques Relances":
-        st.write("Statistiques des Relances")
     elif relances_page_selection == "Analyse Avancée":
-        st.write("Analyse Avancée des Relances")
+        advanced_buildup_analysis()  # Appel de la fonction pour afficher la page d'analyse avancée
+    elif relances_page_selection == "Relations de passes":
+        pass_relations()  # Appel de la fonction pour afficher la page des relations de passes

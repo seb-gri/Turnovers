@@ -10,7 +10,7 @@ print("Python executable:", sys.executable)
 
 def home():
     st.title("Accueil")
-    st.write("Bienvenue sur la plateforme d'analyse des turnovers de Ligue 2 !")
+    st.write("Bienvenue sur la plateforme d'analyse data de Ligue 2 !")
 
     # Bouton pour mettre à jour les données
     if st.button("Mettre à jour les données"):
